@@ -8,8 +8,7 @@ In heliophysics research, predicting solar flares is crucial due to their potent
 
   
 * <code> src/ </code> The details for each notebook file are as follows:
-  - <code>excon-p1.ipynb</code>: Involves only the experiments of SWAN-SF a single notebook file.
-  - <code>excon-p2.ipynb</code>: Experiments with the EXCON framework based on its classification performance on both the SWAN-SF dataset and multiple time series archive datasets
+  - <code>excon-main.ipynb</code>: Experiments with the EXCON framework based on its classification performance on both the SWAN-SF dataset and multiple time series archive datasets
   - This module is a step-by-step guide to our extended edition experiments in a single notebook file.
     
 # Execution Details 
